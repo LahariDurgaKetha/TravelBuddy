@@ -96,6 +96,11 @@ Before running this project, make sure you have the following installed:
 - `npm run build`: Builds the project for production.
 - `npm test`: Runs the test suite.
 
+## Demo Link
+
+For Demo, please visit [Video]().
+
+
 ## Contact
 
-For any inquiries, please reach out to [jayasandeepk@gmail.com](mailto:laharidurgaketha@gmail.com).
+For any inquiries, please reach out to [laharidurgaketha@gmail.com](mailto:laharidurgaketha@gmail.com).
