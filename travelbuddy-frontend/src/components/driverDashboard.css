@@ -1,0 +1,59 @@
+.driver-dashboard {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .logout-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+  }
+  
+  .logout-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .logout-button:hover {
+    background-color: #c82333;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .list-group-item {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px 15px;
+  }
+  
+  .list-group-item p {
+    margin: 0;
+  }
+  
+  .button-group {
+    display: flex;
+    gap: 10px; 
+    justify-content: flex-start; 
+    margin-top: 10px;
+  }
+  
+  .spinner-border {
+    display: block;
+    margin: 0 auto;
+  }
+  

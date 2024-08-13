@@ -1,0 +1,53 @@
+  .agent-dashboard {
+    min-height: 100vh;
+    padding: 20px;
+    color: black; /* White text for better visibility against the background */
+  }
+  
+  
+  .agent-dashboard h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .agent-dashboard .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .agent-dashboard .btn-primary {
+    width: 100%;
+  }
+  
+  .agent-dashboard .list-group-item {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .agent-dashboard .btn-danger {
+    margin-left: 10px;
+  }
+  
+  .logout-container {
+    display: flex;
+    justify-content: flex-end; /* Aligns the button to the right */
+    padding: 10px;
+    margin-bottom: 20px; /* Adds some space below the logout container */
+  }
+  
+  .logout-button {
+    background-color: #dc3545; /* Bootstrap danger color */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .logout-button:hover {
+    background-color: #c82333; /* Darker shade of red on hover */
+  }
