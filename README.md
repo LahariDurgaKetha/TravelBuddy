@@ -21,7 +21,7 @@ Before running this project, make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-repo/travelbuddy.git
+   git clone https://github.com/travelbuddy.git
    cd travelbuddy/backend
    ```
 
